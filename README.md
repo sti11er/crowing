@@ -1,2 +1,3 @@
-# implementation_twitter
-попытка реализации базовой функциональности web twitter
+# Crowing
+
+Crowing is a social network for public messaging using a web interface
